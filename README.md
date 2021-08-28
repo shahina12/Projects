@@ -1,3 +1,5 @@
+[SHAHINA_Python_Bank_Churn_Predi_Pproject_Report.pdf](https://github.com/shahina12/Projects/files/7070780/SHAHINA_Python_Bank_Churn_Predi_Pproject_Report.pdf)
+[SHAHINA_Python_Bank_Churn_Pred_Project_PPT.pdf](https://github.com/shahina12/Projects/files/7070782/SHAHINA_Python_Bank_Churn_Pred_Project_PPT.pdf)
 [R_Life_Expec_Project_Report_pdf.pdf](https://github.com/shahina12/Projects/files/7070776/R_Life_Expec_Project_Report_pdf.pdf)
 [R_Life_Expec_Project_PPT.pdf](https://github.com/shahina12/Projects/files/7070777/R_Life_Expec_Project_PPT.pdf)
 [SHAHINA_SAS_Retail_Sales_Analysis_Project_Report.docx](https://github.com/shahina12/Projects/files/7070765/SHAHINA_SAS_Retail_Sales_Analysis_Project_Report.docx)
